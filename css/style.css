@@ -1,0 +1,19 @@
+.logo img{
+    width: 75px;
+}
+
+nav.navbar a.nav-link{
+    color: lightgray;
+}
+nav.navbar a.nav-link.active{
+color: #fff;
+}
+.btn-outline-success{
+    color: white;
+    border: 1px solid white;
+}
+nav.navbar button.navbar-toggler, nav.navbar button.navbar-toggler:focus{
+    color: lightgrey;
+    border: 1px solid grey;
+    font-size: 30px;
+}
