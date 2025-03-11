@@ -36,3 +36,7 @@ nav.navbar button.navbar-toggler, nav.navbar button.navbar-toggler:focus{
     border: 1px solid black;
     border-radius: 15%;
 }
+
+.fa-chevron-down{
+    color: grey;
+}
