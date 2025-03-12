@@ -1,0 +1,35 @@
+.logo img{
+    width: 75px;
+}
+
+nav.navbar a.nav-link{
+    color: lightgray;
+}
+nav.navbar a.nav-link.active{
+color: #fff;
+}
+.btn-outline-success{
+    color: white;
+    border: 1px solid white;
+}
+nav.navbar button.navbar-toggler, nav.navbar button.navbar-toggler:focus{
+    color: lightgrey;
+    border: 1px solid grey;
+    font-size: 30px;
+}
+.btn-success, .btn-warning, .btn-danger{
+    padding: 0px;
+}
+
+.fa-trash{
+    color: grey;
+    font-size: 20px;
+    padding: 10px 10px;
+    margin-right: 0px;
+    border: 1px solid black;
+    border-radius: 15%;
+}
+
+.fa-chevron-down{
+    color: grey;
+}
