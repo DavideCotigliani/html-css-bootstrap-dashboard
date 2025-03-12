@@ -20,14 +20,7 @@ nav.navbar button.navbar-toggler, nav.navbar button.navbar-toggler:focus{
 .btn-success, .btn-warning, .btn-danger{
     padding: 0px;
 }
-.fa-pencil{
-    color: grey;
-    font-size: 20px;
-    border: 1px solid black;
-    padding: 10px 10px;
-    border-radius: 15%;
-    margin-top: 15px;
-}
+
 .fa-trash{
     color: grey;
     font-size: 20px;
